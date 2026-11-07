@@ -1,0 +1,9 @@
+imageio>=2.4.1
+reedsolo==0.3
+scipy>=1.2.1
+tqdm>=4.31.1
+numpy>=1.15.4
+Pillow>=5.4.1
+torch>=1.0.0
+torchvision>=0.2.1
+streamlit>=1.24.0
